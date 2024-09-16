@@ -1,0 +1,15 @@
+.kursor{
+    width: 30px;
+    height: 30px;
+    border: 2px solid black;
+    background-color: aqua;
+    border-radius: 100%;
+    position: absolute;
+}
+
+.title{
+    background-image: linear-gradient(to right, red, blue);
+    width: 200px;
+    position: absolute;
+
+}
